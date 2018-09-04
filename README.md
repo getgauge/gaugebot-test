@@ -1,1 +1,2 @@
 # gaugebot-test
+* cla-bot
